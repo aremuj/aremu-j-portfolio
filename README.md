@@ -5,7 +5,7 @@
 - Power BI
 - GOOGLE Sheets
 ## My Projects
-- (Retail Store Transaction) (.....)
+- (Retail Store Transaction) (https://github.com/aremuj/Retail-store-transactions-analysis-)
 ## Currently Learning
 - SQL
 - Data Analysis with AI
