@@ -3,7 +3,7 @@
 ## Tools: I work with
 - Microsoft Excel
 - Power BI
-- GOOGLE Sheets
+- Google Sheets
 ## My Projects
 - (Retail Store Transaction) (https://github.com/aremuj/Retail-store-transactions-analysis-)
 ## Currently Learning
