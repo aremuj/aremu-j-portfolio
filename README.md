@@ -6,6 +6,7 @@
 - Google Sheets
 ## My Projects
 - (Retail Store Transaction) (https://github.com/aremuj/Retail-store-transactions-analysis-)
+- (Customer Purchase History) (https://github.com/aremuj/Customer-Purchase-History-Analysis/upload/main)
 ## Currently Learning
 - SQL
 - Data Analysis with AI
