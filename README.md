@@ -1,5 +1,5 @@
 # Hi, I'm Aremu Joseph!
-- I'm a data analyst with a passion for uncovering insights and driving business growth. i specialize in transforming complex data into actionable strategies.
+- I'm a data analyst with a passion for uncovering insights and driving business growth. I specialize in transforming complex data into actionable strategies.
 ## Tools: I work with
 - Microsoft Excel
 - Power BI
